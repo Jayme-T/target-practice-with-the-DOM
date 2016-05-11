@@ -4,7 +4,8 @@
 * This Javascript file will walk you through selecting elements in the DOM,
 * manipulating those elements, and creating new elements. This is (what I believe)
 * to be a useful example of basic DOM manipulation
-*
+* You can see the completed version if you go to the html and switch the scripts
+* at the bottom of the file from list.js to finished.js
 */
 
 // Anywhere you see this - /* UNCOMMENT LINES BELOW */ - uncomment the lines below it,
@@ -16,7 +17,6 @@
 // The carrot that you want to see will look like this: > ul#list
 // The other carrot, <ul id="list">, will not show you the properties
 // I'm not sure what this looks like in Firefox, so try to use Chrome for this example
-
 
 
    // This will target the ul element with the id 'list'
@@ -126,3 +126,6 @@
 
 //This is a simple use case for DOM manipulation, however it is an extremely powerful
 //tool that allows you to manipulate your webpage in an unimaginable amount of ways.
+
+
+//Look at the finished.js file to see the full version of everything without comments
