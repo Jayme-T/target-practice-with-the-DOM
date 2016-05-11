@@ -85,7 +85,7 @@
 
 
    //What we did here is assign the property 'onclick' to a function.
-   //A great built in feature of Javascript, is that certain functions have
+   //A great built in feature of Javascript, is that certain element functions have
    //a built in parameter that is passed into the event handler.
    //** In this case, our event handler is 'onclick' and the built in parameter
    //is 'event'. We don't have to call this function, nor do we have to pass
