@@ -10,3 +10,5 @@ The Javascript file will walk you through:
 * and creating new elements.
 
 **This is (what I believe) to be a useful example of basic DOM manipulation**
+
+**Feel free to fork and clone**
